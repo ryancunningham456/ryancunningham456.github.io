@@ -1,5 +1,7 @@
 body {
 	background-color: beige;
+	background: url(images/yoyorippedjeans.jpg);
+	font-style: italic;
 	}
 	p, h1 {
 	color: white;
